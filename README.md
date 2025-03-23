@@ -23,7 +23,7 @@ MetaTrace is a **web-based metadata extraction and analysis platform** that inte
 - **Backend:** FastAPI, ExifTool, Python
 - **AI/ML:** Isolation Forest (for tampering detection), Groq AI (for metadata analysis)
 - **Blockchain:** Moonbase (for metadata storage)
-- **Frontend:** React/Next.js (for web interface)
+- **Frontend:** Next.js, Tailwind CSS (for web interface)
 
 ## 🏆 <LEVEL-UP> Hackathon Submission
 🎯 **Domains:** AI & ML | Web Development | Cybersecurity | Blockchain  
