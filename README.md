@@ -17,7 +17,7 @@ MetaTrace is a **web-based metadata extraction and analysis platform** that inte
 - Deploying **blockchain smart contracts** for decentralized storage
 
 ## 🎥 Demo Video
-[Watch the Prototype in Action](#) 
+[Watch the Prototype in Action](#) (working on it will upload soon )
 
 ## 🔗 Tech Stack
 - **Backend:** FastAPI, ExifTool, Python
