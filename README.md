@@ -7,6 +7,103 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 
 ## 🎬 Demo Video
 📽️ **Watch the full demo here:** [https://drive.google.com/file/d/1KYlFGN8q5TBy3bHq7H7w28eZ8Eu-Oz89/view?usp=sharing]  
+
+## Demo Images
+---
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.04 (1).jpeg)
+<div align="center">
+  <b>MetaTrace Landing Page</b>
+   <br>
+   The entry point of MetaTrace, providing users an overview of metadata extraction and analysis.
+</div>
+<br>
+
+---
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.04 (2).jpeg)
+<div align="center">
+  <b>Features Page</b>
+   <br>
+   Showcasing the key features of MetaTrace, including metadata extraction, analysis, and blockchain security.
+</div>
+<br>
+
+---
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.05.jpeg)
+<div align="center">
+  <b>Workflow Overview</b>
+   <br>
+   A step-by-step representation of how MetaTrace processes and analyzes metadata.
+</div>
+<br>
+
+---
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.06 (2).jpeg)
+<div align="center">
+  <b>Upload Page</b>
+   <br>
+   Users can upload files for metadata extraction and analysis, ensuring a seamless and secure process.
+</div>
+<br>
+
+---
+
+
+![image](app/uploads/WhatsApp Image 2025-03-24 at 12.29.05 (1).jpeg)
+<div align="center">
+  <b>Anomaly Detection in Metadata</b>
+   <br>
+   Using Isolation Forest to detect metadata tampering or suspicious modifications.
+</div>
+<br>
+
+---
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.06 (1).jpeg)
+<div align="center">
+  <b>Normal Metadata Analysis</b>
+   <br>
+   Extracting and displaying metadata securely, ensuring authenticity and integrity.
+</div>
+<br>
+
+
+---
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.05 (2).jpeg)
+<div align="center">
+  <b>AI Analysis of Extracted Metadata</b>
+   <br>
+   Leveraging Groq AI for in-depth metadata analysis, detecting patterns, anomalies, and ensuring data integrity.
+</div>
+<br>
+
+---
+
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.05 (1).jpeg)
+<div align="center">
+  <b>User Profile Page</b>
+   <br>
+   Users can manage past uploads, access metadata history, and customize preferences.
+</div>
+<br>
+
+---
+
+![image](meta images/WhatsApp Image 2025-03-24 at 12.29.04.jpeg)
+<div align="center">
+  <b>Blockchain Integration</b>
+   <br>
+   Securely storing metadata history and ensuring tamper-proof data integrity using Moonbase.
+</div>
+<br>
+
+---
+
 🛠 **Domain:** AI & ML, Web Development, Cybersecurity & Blockchain  
 
 MetaTrace aligns with the **"Future Innovations"** theme by leveraging cutting-edge AI models and blockchain technology to enhance digital security, transparency, and efficiency in metadata management.
