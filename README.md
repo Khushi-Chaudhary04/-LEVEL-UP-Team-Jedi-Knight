@@ -11,7 +11,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 ## Demo Images
 ---
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.04 (1).jpeg)
+![MetaTrace Landing Page](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.04%20(1).jpeg)
 <div align="center">
   <b>MetaTrace Landing Page</b>
    <br>
@@ -21,7 +21,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 
 ---
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.04 (2).jpeg)
+![MetaTrace Features Page](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.04%20(2).jpeg)
 <div align="center">
   <b>Features Page</b>
    <br>
@@ -31,7 +31,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 
 ---
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.05.jpeg)
+![MetaTrace Workflow](meta%20images/workflow.png)
 <div align="center">
   <b>Workflow Overview</b>
    <br>
@@ -41,7 +41,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 
 ---
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.06 (2).jpeg)
+![Upload Page](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.06%20(2).jpeg)
 <div align="center">
   <b>Upload Page</b>
    <br>
@@ -52,7 +52,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 ---
 
 
-![image](app/uploads/WhatsApp Image 2025-03-24 at 12.29.05 (1).jpeg)
+![AI Analysis of Extracted Metadata](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.05%20(2).jpeg)
 <div align="center">
   <b>Anomaly Detection in Metadata</b>
    <br>
@@ -62,7 +62,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 
 ---
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.06 (1).jpeg)
+![Normal Metadata Analysis](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.06%20(1).jpeg)
 <div align="center">
   <b>Normal Metadata Analysis</b>
    <br>
@@ -73,7 +73,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 
 ---
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.05 (2).jpeg)
+![Groq AI Metadata Analysis](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.06.jpeg)
 <div align="center">
   <b>AI Analysis of Extracted Metadata</b>
    <br>
@@ -84,7 +84,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 ---
 
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.05 (1).jpeg)
+![Anomaly Detection in Metadata](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.05%20(1).jpeg)
 <div align="center">
   <b>User Profile Page</b>
    <br>
@@ -94,7 +94,7 @@ MetaTrace is an **AI-powered, blockchain-secured metadata forensics tool** that 
 
 ---
 
-![image](meta images/WhatsApp Image 2025-03-24 at 12.29.04.jpeg)
+![Blockchain Integration](meta%20images/WhatsApp%20Image%202025-03-24%20at%2012.29.04.jpeg)
 <div align="center">
   <b>Blockchain Integration</b>
    <br>
