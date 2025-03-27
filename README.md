@@ -141,11 +141,11 @@ MetaTrace is a **multi-domain solution**, covering:
 - **Storage:** IPFS (InterPlanetary File System)
 
 ---
-## 🏆 Why MetaTrace is a Game-Changer for LEVEL-UP Hackathon?
+## 🏆 Why MetaTrace is a Game-Changer
 🔹 **Bridges AI & Blockchain:** Combines AI-driven security with decentralized integrity.  
 🔹 **User-Centric Approach:** Intuitive UI for easy adoption by non-technical users.  
 🔹 **Real-World Impact:** Solves critical problems in **cybersecurity, journalism, and forensic investigations**.  
 🔹 **Future-Ready Innovation:** Secure, scalable, and integrates seamlessly with various domains.  
 
-We are excited to present MetaTrace at **LEVEL-UP Hackathon 2025** and showcase how it revolutionizes metadata security with AI and blockchain! 🚀
+We are excited to present MetaTrace and showcase how it revolutionizes metadata security with AI and blockchain! 🚀
 
